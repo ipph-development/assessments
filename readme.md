@@ -8,7 +8,7 @@ Send a link to paulzakin@bsd.uchicago.edu with a link to the repo with your solu
 
 Build a React + TypeScript application utilizing the GitHub API to show data related to a given user. 
 
-### Requirements
+## Requirements
 
 **Use Create React App or Next.js to avoid wasting time on configuration.** 
 
