@@ -14,9 +14,9 @@ Use Create React App or Next.js to avoid wasting time on configuration.
 
 The app only has one page /. Hence, no routing required. 
 
-The app fetches the results from this API call (https://api.github.com/users/[your-github-username]) with any GitHub username. 
+The app fetches the results from this API call (https://api.github.com/users/[your-github-username]) with **any** GitHub username. 
 
-The user enters the GitHub username in a search bar.
+The user enters the username in a search bar to fetch the result.
 
 After the result has been fetched, present the following on the page: 
 
