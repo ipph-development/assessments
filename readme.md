@@ -1,12 +1,10 @@
 # Assessment 
 
-Pick either the React assignment **or** the Python assignment, **not both**.
+The React assignment should take you less than 2 hours to complete. If you go over, please stop. 
 
-Either should take you less than 2 hours to complete this. If you go over, please stop. 
+Send a link to paulzakin@bsd.uchicago.edu with a link to the repo with your solution once complete. 
 
-Send a link to paulzakin@bsd.uchicago.edu with a link to the repo with yoursolution once complete. 
-
-## React
+## Overview
 
 Build a React + TypeScript application utilizing the GitHub API to show data related to a given user. 
 
