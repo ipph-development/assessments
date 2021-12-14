@@ -10,7 +10,7 @@ Build a React + TypeScript application utilizing the GitHub API to show data rel
 
 ### Requirements
 
-Use Create React App or Next.js to avoid wasting time on configuration. 
+**Use Create React App or Next.js to avoid wasting time on configuration.** 
 
 The app only has one page /. Hence, no routing required. 
 
