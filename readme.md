@@ -16,6 +16,8 @@ The app only has one page /. Hence, no routing required.
 
 The app fetches the results from this API call (https://api.github.com/users/[your-github-username]) with **any** GitHub username. 
 
+> Example: https://api.github.com/users/paulzakin
+
 The user enters the username in a search bar to fetch the result.
 
 After the result has been fetched, present the following on the page: 
