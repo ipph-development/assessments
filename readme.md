@@ -2,7 +2,7 @@
 
 The React assignment should take you less than 2 hours to complete. If you go over, please stop. 
 
-Send a link to paulzakin@bsd.uchicago.edu with a link to the repo with your solution once complete. 
+Send a link to paulzakin@bsd.uchicago.edu with a link to the repo with your solution once complete.
 
 ## Overview
 
