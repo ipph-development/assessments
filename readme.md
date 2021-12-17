@@ -20,7 +20,10 @@ The app fetches the results from this API call (https://api.github.com/users/[yo
 
 The user enters the username in a search bar to fetch the result.
 
-After the result has been fetched, present the following on the page: 
+- The match should be an exact, lowercase match
+- If no match is found, run window.alert("No match found!")
+
+After the successful match has been fetched, present the following on the page: 
 
 - Name 
 - Bio 
