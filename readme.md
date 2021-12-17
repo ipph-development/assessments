@@ -2,7 +2,7 @@
 
 The React assignment should take you less than 2 hours to complete. If you go over, please stop. 
 
-Send a link to paulzakin@bsd.uchicago.edu with a link to the private repo with your solution once complete. Be sure to share your repo with **paulzakin** so we can access it.
+Send a link to paulzakin@bsd.uchicago.edu with a link to the private repo with your solution once complete. Be sure to share your repo with **paulzakin** (Paul's username) so we can access it.
 
 ## Overview
 
